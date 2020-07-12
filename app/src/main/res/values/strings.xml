@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CompileAidl</string>
+
+    <string name="label_pay_amount">已成功付款<font color="#FF5500">%1$s</font>元</string>
+</resources>
